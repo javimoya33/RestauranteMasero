@@ -1,0 +1,1 @@
+^ʚd<?php exit; ?>a:1:{s:7:"content";a:3:{s:20:"product_rewrite_slug";s:8:"producto";s:21:"category_rewrite_slug";s:18:"categoria-producto";s:16:"tag_rewrite_slug";s:17:"etiqueta-producto";}}

@@ -1,0 +1,3 @@
+// source --> https://www.restaurantemasero.com/wp-content/cache/autoptimize/js/autoptimize_single_ab55c224299ea8f0fe7bf738772cc650.js?ver=2.3.8 
+document.addEventListener("DOMContentLoaded",function(event){function trpClearWooCartFragments(){var trp_language_switcher_urls=document.querySelectorAll(".trp-language-switcher-container a:not(.trp-ls-disabled-language)");for(i=0;i<trp_language_switcher_urls.length;i++){trp_language_switcher_urls[i].addEventListener("click",function(){if(typeof wc_cart_fragments_params!=='undefined'&&typeof wc_cart_fragments_params.fragment_name!=='undefined'){window.sessionStorage.removeItem(wc_cart_fragments_params.fragment_name);}});}}
+trpClearWooCartFragments();});

@@ -1,0 +1,54 @@
+[03-Aug-2022 13:35:25 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/xngaafotjc/www/masero/wp-content/plugins/elementor/includes/template-library/sources/local.php:837
+Stack trace:
+#0 /home/xngaafotjc/www/masero/wp-content/plugins/elementor/includes/template-library/manager.php(437): Elementor\TemplateLibrary\Source_Local->import_template('deliciko.zip', '/tmp/phpkdblAL')
+#1 /home/xngaafotjc/www/masero/wp-content/plugins/elementor/includes/template-library/manager.php(626): Elementor\TemplateLibrary\Manager->direct_import_template(Array)
+#2 /home/xngaafotjc/www/masero/wp-includes/class-wp-hook.php(307): Elementor\TemplateLibrary\Manager->handle_direct_actions('')
+#3 /home/xngaafotjc/www/masero/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 /home/xngaafotjc/www/masero/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#5 /home/xngaafotjc/www/masero/wp-admin/admin-ajax.php(187): do_action('wp_ajax_element...')
+#6 {main}
+  thrown in /home/xngaafotjc/www/masero/wp-content/plugins/elementor/includes/template-library/sources/local.php on line 837
+[03-Aug-2022 13:35:46 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/xngaafotjc/www/masero/wp-content/plugins/elementor/includes/template-library/sources/local.php:837
+Stack trace:
+#0 /home/xngaafotjc/www/masero/wp-content/plugins/elementor/includes/template-library/manager.php(437): Elementor\TemplateLibrary\Source_Local->import_template('deliciko.zip', '/tmp/phpp3Nxyb')
+#1 /home/xngaafotjc/www/masero/wp-content/plugins/elementor/includes/template-library/manager.php(626): Elementor\TemplateLibrary\Manager->direct_import_template(Array)
+#2 /home/xngaafotjc/www/masero/wp-includes/class-wp-hook.php(307): Elementor\TemplateLibrary\Manager->handle_direct_actions('')
+#3 /home/xngaafotjc/www/masero/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 /home/xngaafotjc/www/masero/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#5 /home/xngaafotjc/www/masero/wp-admin/admin-ajax.php(187): do_action('wp_ajax_element...')
+#6 {main}
+  thrown in /home/xngaafotjc/www/masero/wp-content/plugins/elementor/includes/template-library/sources/local.php on line 837
+[03-Aug-2022 13:39:37 UTC] PHP Warning:  sprintf(): Too few arguments in /home/xngaafotjc/www/masero/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[03-Aug-2022 13:39:38 UTC] PHP Warning:  sprintf(): Too few arguments in /home/xngaafotjc/www/masero/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[03-Aug-2022 13:39:41 UTC] PHP Warning:  sprintf(): Too few arguments in /home/xngaafotjc/www/masero/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[03-Aug-2022 13:39:46 UTC] PHP Warning:  sprintf(): Too few arguments in /home/xngaafotjc/www/masero/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[03-Aug-2022 13:39:49 UTC] PHP Warning:  sprintf(): Too few arguments in /home/xngaafotjc/www/masero/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[03-Aug-2022 13:39:53 UTC] PHP Warning:  sprintf(): Too few arguments in /home/xngaafotjc/www/masero/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[16-Nov-2022 21:48:04 UTC] PHP Deprecated:  ¡El gancho contextual_help está <strong>obsoleto</strong> desde la versión 3.3.0! Usa get_current_screen()->add_help_tab(), get_current_screen()->remove_help_tab() en su lugar. in /home/restauv/www/wp-includes/functions.php on line 5756
+[16-Nov-2022 21:48:12 UTC] PHP Notice:  Undefined property: stdClass::$total_sales in /home/restauv/www/wp-content/plugins/woocommerce/src/Admin/RemoteInboxNotifications/TotalPaymentsVolumeProcessor.php on line 36
+[16-Nov-2022 21:48:13 UTC] PHP Deprecated:  ¡El gancho contextual_help está <strong>obsoleto</strong> desde la versión 3.3.0! Usa get_current_screen()->add_help_tab(), get_current_screen()->remove_help_tab() en su lugar. in /home/restauv/www/wp-includes/functions.php on line 5756
+[16-Nov-2022 21:48:23 UTC] PHP Notice:  Undefined property: stdClass::$total_sales in /home/restauv/www/wp-content/plugins/woocommerce/src/Admin/RemoteInboxNotifications/TotalPaymentsVolumeProcessor.php on line 36
+[16-Nov-2022 21:48:24 UTC] PHP Deprecated:  ¡El gancho contextual_help está <strong>obsoleto</strong> desde la versión 3.3.0! Usa get_current_screen()->add_help_tab(), get_current_screen()->remove_help_tab() en su lugar. in /home/restauv/www/wp-includes/functions.php on line 5756
+[16-Nov-2022 21:48:42 UTC] PHP Notice:  Undefined property: stdClass::$total_sales in /home/restauv/www/wp-content/plugins/woocommerce/src/Admin/RemoteInboxNotifications/TotalPaymentsVolumeProcessor.php on line 36
+[16-Nov-2022 21:48:43 UTC] PHP Deprecated:  ¡El gancho contextual_help está <strong>obsoleto</strong> desde la versión 3.3.0! Usa get_current_screen()->add_help_tab(), get_current_screen()->remove_help_tab() en su lugar. in /home/restauv/www/wp-includes/functions.php on line 5756
+[16-Nov-2022 21:48:48 UTC] PHP Notice:  Undefined property: stdClass::$total_sales in /home/restauv/www/wp-content/plugins/woocommerce/src/Admin/RemoteInboxNotifications/TotalPaymentsVolumeProcessor.php on line 36
+[16-Nov-2022 21:48:49 UTC] PHP Deprecated:  ¡El gancho contextual_help está <strong>obsoleto</strong> desde la versión 3.3.0! Usa get_current_screen()->add_help_tab(), get_current_screen()->remove_help_tab() en su lugar. in /home/restauv/www/wp-includes/functions.php on line 5756
+[16-Nov-2022 21:57:37 UTC] PHP Deprecated:  ¡El gancho contextual_help está <strong>obsoleto</strong> desde la versión 3.3.0! Usa get_current_screen()->add_help_tab(), get_current_screen()->remove_help_tab() en su lugar. in /home/restauv/www/wp-includes/functions.php on line 5756
+[16-Nov-2022 21:57:37 UTC] PHP Notice:  Undefined property: stdClass::$net_sales in /home/restauv/www/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-dashboard.php on line 155
+[16-Nov-2022 22:01:40 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/restauv/www/wp-content/plugins/translatepress-multilingual/includes/class-translation-manager.php on line 509
+[16-Nov-2022 22:01:40 UTC] PHP Notice:  Trying to get property 'post_status' of non-object in /home/restauv/www/wp-content/plugins/translatepress-multilingual/includes/class-translation-manager.php on line 511
+[16-Nov-2022 22:01:40 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/restauv/www/wp-content/plugins/translatepress-multilingual/includes/class-translation-manager.php on line 513
+[16-Nov-2022 22:08:15 UTC] PHP Deprecated:  ¡El gancho contextual_help está <strong>obsoleto</strong> desde la versión 3.3.0! Usa get_current_screen()->add_help_tab(), get_current_screen()->remove_help_tab() en su lugar. in /home/restauv/www/wp-includes/functions.php on line 5756
+[16-Nov-2022 22:08:15 UTC] PHP Notice:  Undefined property: stdClass::$net_sales in /home/restauv/www/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-dashboard.php on line 155
+[16-Nov-2022 22:08:37 UTC] PHP Deprecated:  ¡El gancho contextual_help está <strong>obsoleto</strong> desde la versión 3.3.0! Usa get_current_screen()->add_help_tab(), get_current_screen()->remove_help_tab() en su lugar. in /home/restauv/www/wp-includes/functions.php on line 5756
+[16-Nov-2022 22:08:44 UTC] PHP Deprecated:  ¡El gancho contextual_help está <strong>obsoleto</strong> desde la versión 3.3.0! Usa get_current_screen()->add_help_tab(), get_current_screen()->remove_help_tab() en su lugar. in /home/restauv/www/wp-includes/functions.php on line 5756
+[16-Nov-2022 22:08:50 UTC] PHP Notice:  Undefined property: stdClass::$total_sales in /home/restauv/www/wp-content/plugins/woocommerce/src/Admin/RemoteInboxNotifications/TotalPaymentsVolumeProcessor.php on line 36
+[16-Nov-2022 22:11:50 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/restauv/www/wp-content/plugins/translatepress-multilingual/includes/class-translation-manager.php on line 509
+[16-Nov-2022 22:11:50 UTC] PHP Notice:  Trying to get property 'post_status' of non-object in /home/restauv/www/wp-content/plugins/translatepress-multilingual/includes/class-translation-manager.php on line 511
+[16-Nov-2022 22:11:50 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/restauv/www/wp-content/plugins/translatepress-multilingual/includes/class-translation-manager.php on line 513
+[16-Nov-2022 22:37:11 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/restauv/www/wp-content/plugins/translatepress-multilingual/includes/class-translation-manager.php on line 509
+[16-Nov-2022 22:37:11 UTC] PHP Notice:  Trying to get property 'post_status' of non-object in /home/restauv/www/wp-content/plugins/translatepress-multilingual/includes/class-translation-manager.php on line 511
+[16-Nov-2022 22:37:11 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/restauv/www/wp-content/plugins/translatepress-multilingual/includes/class-translation-manager.php on line 513
+[16-Nov-2022 22:38:59 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/restauv/www/wp-content/plugins/translatepress-multilingual/includes/class-translation-manager.php on line 509
+[16-Nov-2022 22:38:59 UTC] PHP Notice:  Trying to get property 'post_status' of non-object in /home/restauv/www/wp-content/plugins/translatepress-multilingual/includes/class-translation-manager.php on line 511
+[16-Nov-2022 22:38:59 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/restauv/www/wp-content/plugins/translatepress-multilingual/includes/class-translation-manager.php on line 513

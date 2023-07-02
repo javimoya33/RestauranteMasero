@@ -1,0 +1,469 @@
+body{
+   direction: rtl;
+   unicode-bidi: embed;
+}
+.owl-carousel .owl-stage-outer{
+   direction: ltr;
+}
+.hero-area .owl-dots .owl-dot.active{
+   right: -5px;
+}
+@media (min-width: 1000px){
+   .header-transparent.header .navbar-container .navbar-light{
+      float: right;
+   }
+}
+.header .navbar-container .navbar-light .dropdown-toggle::after{
+   float: left;
+}
+
+.header .navbar-container .navbar-light .main-menu > li > a:before{
+   left: -24px;
+   right: auto;
+}
+.header.header-classic .navbar-container .navbar-light .main-menu > li > a:before{
+display: none;
+}
+.header-classic .navbar-container .navbar-light .main-menu > li:after {
+   left: 0;
+   right: -10px;
+}
+ .header-cart{
+   padding-left: 15px;
+   padding-right: 0;
+}
+.header-transparent .logo-area {
+   float: right;
+}
+.header-transparent .header-cart{
+    padding-left: 30px;
+}
+.gradient:before{
+   right: 0;
+   left: auto;
+}
+
+.btn-link i{
+   margin-right: 6px;
+   margin-left: auto;
+}
+
+.navbar-toggler{
+   left: 0;
+   right: auto;
+}
+
+.header-transparent{
+   right: 0;
+   left: auto;
+}
+
+.navbar.navbar-light{
+   padding: 5px 0 0 0 ;
+}
+
+.navbar.navbar-light ul.navbar-nav>li.dropdown>a:after{
+   left: 0;
+   right: auto;
+}
+
+.navbar.navbar-light ul.navbar-nav>li ul.dropdown-menu li.dropdown>a:after{
+   left: 0;
+   right: auto;
+}
+
+.main-menu>.menu-item>.dropdown-menu>.menu-item>.dropdown-menu{
+   left: 100%;
+   right: auto;
+}
+
+.ticket-btn.btn{
+   float: left;
+}
+
+.single-intro-text{
+   padding: 40px 40px 40px 45px ;
+}
+
+.single-intro-text i{
+   left: -10px;
+   right: auto;
+}
+
+.single-intro-text .count-number{
+   left: -55px;
+   right: auto;
+   text-align: right;
+}
+
+.hero-form .form-control{
+   padding-right: 5px;
+   padding-left: 0;
+}
+
+.newsletter-form .form-group .btn{
+   left: 0;
+   right: auto;
+}
+
+.ts-schedule .ts-schedule-content .column-title:after{
+   right: 0;
+   left: auto;
+}
+
+.ts-schedule-info ul li a{
+   right: 0;
+   left: auto;
+}
+
+.ts-schedule-info ul li:nth-child(2) a{
+   right: 130px;
+   left: auto;
+}
+
+.ts-schedule-info ul li:nth-child(3) a{
+   right: auto;
+   left: 0;
+}
+
+.schedule-listing .schedule-slot-info{
+   padding: 35px 170px 35px 40px ;
+   border-right: none;
+   border-left: none;
+}
+
+.schedule-listing .schedule-slot-info .schedule-slot-speakers{
+   right: 40px;
+   left: auto;
+}
+
+.schedule-listing .schedule-slot-info .schedule-slot-title strong{
+   margin-right: 12px;
+   margin-left: auto;
+}
+
+.schedule-listing.launce .schedule-slot-title{
+   float: right;
+}
+
+.schedule-listing.launce .schedule-slot-info-content img{
+   float: left;
+}
+
+.ts-map-tabs .elementor-tabs-wrapper .elementor-tab-title a:before{
+   right: 0;
+   left: 0;
+   border-right: 0;
+   border-left: none;
+}
+
+.ts-map-tabs .elementor-tabs-wrapper .elementor-tab-title:before{
+   right: 0;
+   left: auto;
+}
+
+.ts-map-tabs .elementor-tab-content{
+   padding-right: 0px;
+}
+
+.ts-schedule-nav ul li a:before{
+   border-width: 0 0 15px 15px ;
+   border-color: transparent transparent transparent #e7015e ;
+   right: 0;
+   left: auto;
+}
+
+.about-video:before{
+   right: 0;
+   left: auto;
+}
+
+.schedule-tabs-item .schedule-listing-item.schedule-left{
+   padding: 60px 0 20px 125px ;
+   text-align: left;
+}
+
+.schedule-tabs-item .schedule-listing-item.schedule-left .schedule-slot-speakers{
+   left: 30px;
+   right: auto;
+}
+
+.schedule-tabs-item .schedule-listing-item.schedule-left:before{
+   left: -17px;
+   right: auto;
+}
+
+.schedule-tabs-item .schedule-listing-item.schedule-left:after{
+   left: -6px;
+   right: auto;
+}
+
+.schedule-tabs-item .schedule-listing-item.schedule-right{
+   padding: 60px 125px 0px 20px ;
+   text-align: right;
+}
+
+.schedule-tabs-item .schedule-listing-item.schedule-right .schedule-slot-speakers{
+   right: 30px;
+   left: auto;
+}
+
+.schedule-tabs-item .schedule-listing-item.schedule-right:before{
+   right: -15px;
+   left: auto;
+}
+
+.schedule-tabs-item .schedule-listing-item.schedule-right:after{
+   right: -19px;
+   left: auto;
+}
+
+.schedule-tabs-item ul:before{
+   right: 50%;
+   left: auto;
+}
+
+.schedule-tabs-item ul li:nth-child(odd){
+   float: right;
+}
+
+.schedule-tabs-item ul li:nth-child(odd):before{
+   left: -2px;
+   right: auto;
+}
+
+.schedule-tabs-item ul li:nth-child(even){
+   float: left;
+   padding-right: 15px;
+   padding-left: 0;
+}
+
+.schedule-tabs-item ul li:nth-child(even):before{
+   right: 0;
+   left: auto;
+}
+
+.elementor-widget-delicios-latestnews .post{
+   padding-left: 0px;
+}
+
+.elementor-widget-delicios-latestnews .post .post-body{
+   padding: 20px 30px 25px 20px ;
+}
+
+.elementor-widget-delicios-latestnews .post .post-body .post-meta{
+   padding: 5px 0px 0px 0px ;
+}
+
+.elementor-widget-delicios-latestnews .post .post-body .post-author{
+   margin-left: 25px;
+   margin-right: auto;
+}
+
+.footer-menu ul li a:before{
+   right: -24px;
+   left: auto;
+}
+
+.elementor-widget-accordion .elementor-accordion .elementor-accordion-item .elementor-tab-title{
+   text-align: right;
+}
+
+.ts-speaker .speaker-img:before{
+   right: 0;
+   left: auto;
+}
+
+.ts-speaker .view-speaker{
+   right: 0;
+   left: 0;
+}
+
+.speaker-classic .ts-speaker .ts-speaker-info{
+   left: 0;
+   right: auto;
+}
+
+.speaker-shap img{
+   right: 0;
+   left: auto;
+}
+
+.speaker-shap img.shap2{
+   right: auto;
+   left: 0;
+}
+
+.speaker-shap img.shap3{
+   right: 6%;
+   left: auto;
+}
+
+.ts-speaker-popup .ts-speaker-popup-content .ts-speakers-social a{
+   margin-left: 18px;
+   margin-right: auto;
+}
+
+.countdown .counter-item{
+   margin-left: 18px;
+   margin-right: auto;
+}
+
+.countdown .counter-item i{
+   right: 0;
+   left: auto;
+}
+
+.countdown .counter-item:last-of-type{
+   margin-left: 0;
+}
+
+.ts-count-down .countdown .counter-item{
+   float: right;
+   margin-left: 0;
+}
+
+.ts-count-down .countdown .counter-item b{
+   left: 0;
+   right: auto;
+}
+
+.gradient-overlay .elementor-custom-embed-image-overlay:before{
+   background: linear-gradient(145deg, rgba(255, 7, 99, 0.65) 95% rgba(104, 89, 222, 0.65) 100%);
+   right: 0;
+   left: 0;
+}
+
+.ts-pricing-box .pricing-btn:after, .ts-pricing-box .pricing-btn:before{
+   right: -14px;
+   left: auto;
+}
+
+.ts-pricing-box .pricing-btn:after{
+   right: auto;
+   left: -14px;
+}
+
+.ts-pricing-item .ts-pricing-price img{
+   right: 0;
+   left: 0;
+}
+
+.ts-pricing-box .ts-pricing-header .ts-pricing-price span{
+   margin-left: 10px;
+   margin-right: auto;
+}
+
+.page-banner-area{
+   background-position: 50% 50%;
+}
+
+.page-banner-title .breadcrumb li a{
+   margin-left: 5px;
+   margin-right: auto;
+}
+
+.BackTo{
+   left: 14px;
+   right: auto;
+}
+
+.ts-footer.ts-footer-item .footer-menu ul li:first-child a{
+   margin-right: -25px;
+   margin-left: auto;
+}
+
+.text-right-bottom{
+   text-align: left !important;
+   left: 0px;
+   right: auto;
+}
+
+.ts-funfacts .elementor-counter-title{
+   text-align: right;
+}
+
+.main-slider .banner-item:before{
+   right: 0;
+   left: auto;
+}
+
+.main-slider .banner-item .banner-content-wrap .banner-btn .btn.fill{
+   margin-right: 20px;
+   margin-left: auto;
+}
+
+.main-slider .owl-dots{
+   right: 0;
+   left: 0;
+}
+
+.custom-list-style ul li{
+   border-left: none;
+}
+
+.menu-item h4 a{
+   float: right;
+}
+
+.menu-item h4 .price span{
+   float: right;
+}
+
+.menu-item ul li{
+   margin-left: 5px;
+   margin-right: auto;
+}
+
+.menu-item ul li a:after{
+   margin-right: 4px;
+   margin-left: auto;
+}
+.menu-list-item .post-thumb{
+   margin-right: 0;
+   margin-left: 25px;
+}
+
+.inner-box .post-title.pull-left{
+   float: right !important;
+}
+.inner-box .price.pull-right{
+   float: left !important;
+}
+.social-links li:last-child{
+   padding-right: 15px;
+
+}
+.sidebar .widget .widget-title:before{
+   left: auto;
+}
+.ts-footer .ts-subscribe .newsletter-form .btn-group{
+   right: auto;
+   left: 0;
+}
+.copyright .footer-social{
+   text-align: left;
+}
+.ts-footer .ts-subscribe{
+   padding-left: 0;
+   padding-right: 50px;
+}
+
+
+.deliciko-rating .review-chart{
+margin-right: 8px;
+margin-left: 8px;
+}
+
+.ts-overlay-style .post-content{
+    right: 0;
+}
+
+.verticale-feature-post .deliciko-rating .deliciko-review-percent{
+justify-content: flex-end;
+}
+
+.xs-review-box .xs-reviewer-details .review-reviwer-info-section {
+    padding-left: 10px;
+    padding-right: 10px;
+}

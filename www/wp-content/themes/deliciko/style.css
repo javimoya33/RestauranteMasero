@@ -1,0 +1,238 @@
+/*
+Theme Name: Deliciko
+Theme URI: https://themeforest.net/user/tripples/portfolio
+Author: Tripples
+Author URI: http://themewinter.com
+Description: Deliciko is a Restaurant WordPress Theme.
+Version: 2.0.2
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: deliciko
+Tags: theme-options, post-formats, featured-images
+Requires at least: 5.2
+Tested up to: 5.8
+Requires PHP: 7.0
+*/
+
+.slider-title {
+    text-shadow: 1px 2px #000;
+}
+
+.slider-title p {
+    display: inline;
+    color: #ff7b75;
+    font-family: "Aladin", sans-serif;
+}
+
+.img-titulo-logo {
+    width: 700px !important;
+    margin: 0 auto;
+}
+
+.slider-info {
+    text-shadow: 0px 1px white;
+}
+
+.slider-btn-area {
+    display: none
+}
+
+.BackTo {
+    background: #EABB74
+}
+
+.navbar-toggler {
+    background-color: #EABB74 !important;
+    border-radius: 0px;
+}
+
+.navbar-nav {
+    background-color: none;
+}
+
+.header .navbar-container .navbar-light .main-menu > li {
+    border-bottom: none;
+    text-shadow: 1px 1px #000
+}
+
+#primary-nav {
+    justify-content: flex-start !important;
+}
+
+.header-nav-right-info {
+    width: 25%;
+    padding: 10px 0px
+}
+
+.header-nav-right-info:before {
+    position: absolute;
+    width: 1px;
+    height: 80%;
+    content: '';
+    background: #3a3530;
+    bottom: 0;
+    margin: auto;
+}
+
+.header .navbar-container .navbar-light .header-book-btn {
+    padding-left: 30px;
+    margin-top: 10px;
+}
+
+.slider-item .slider-content .slider-info .info-before-bar {
+    margin-right: 0px;
+}
+
+.slider-item .slider-content .slider-info .info-after-bar {
+    margin-left: 0px;
+}
+
+.slider-item .slider-content .slider-info .info-before-bar, .slider-item .slider-content .slider-info .info-after-bar {
+    width: 40px;
+}
+
+@media (min-width: 1200px) {
+    .navbar-sticky.sticky.header-transparent .logo-area, .navbar-sticky.sticky.nav-classic-transparent .logo-area {
+        max-width: 140px;
+    }
+}
+
+.navbar-sticky.sticky.header-transparent, .navbar-sticky.sticky.nav-classic-transparent {
+    background: #191919;
+}
+
+.header-transparent .logo-area {
+    float: right;
+    margin-top: 52px;
+}
+
+.header-transparent .logo-area .logo {
+    max-width: 208px;
+}
+
+.navbar-sticky.sticky.header-transparent .logo-area, .navbar-sticky.sticky.nav-classic-transparent .logo-area {
+    max-width: 210px;
+    margin-top: 8px !important;
+}
+
+.navbar-toggler {
+    border-radius: 0rem 0rem 0.25rem 0.25rem !important;
+}
+
+.elementor-65 .elementor-element.elementor-element-ffdd86f .elementor-gallery-title {
+    color: #fff
+}
+
+.dropdown-menu {
+    background-color: #eabb74 !important;
+}
+
+.dropdown-menu li {
+    text-shadow: none !important;
+    font-family: "Sora" !important;
+}
+
+.dropdown-menu li a {
+    font-size: 10.5pt !important;
+    color: #fff !important;
+    text-shadow: 1px 1px #9d7d4e !important;
+}
+
+.dropdown-menu li a:hover {
+    opacity: 0.5;
+}
+
+.header .navbar-container .navbar-light .main-menu > li {
+    padding: 0 21px;
+    position: relative;
+}
+
+@media only screen and (max-width: 1000px) {
+    
+    .logo-area2 {
+        float: right !important;
+        margin-top: 48px !important;
+    }
+    
+    .navbar-light .navbar-toggler {
+        position: absolute !important;
+        left: 0px !important;
+    }
+    
+    .navbar-toggler {
+        padding: 0.45rem 1rem !important;
+    }
+    
+    .header-transparent.header .navbar-container .navbar-light {
+        padding-top: 25px;
+        position: absolute;
+        left: 0px;
+        top: -2px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    
+    #trp-floater-ls {
+        right: 0% !important;
+    }
+}
+
+@media screen and (max-width: 1000px)
+{
+    #trp-floater-ls {
+        left: 70% !important;
+    }
+    
+    .slider-info {
+        text-shadow: none;
+    }
+    
+    .intro-box-content .elementor-widget-container {
+        height: 350px;
+    }
+    
+    .intro-box-content .elementor-widget-container {
+        height: auto;
+    }
+    
+    .navbar-nav {
+        background-color: #eabb74 !important;
+    }
+    
+    .navbar-nav li {
+        text-shadow: none !important;
+        font-family: "Sora" !important;
+    }
+    
+    .navbar-nav li a {
+        font-size: 10.5pt !important;
+        color: #fff !important;
+        text-shadow: 1px 1px #9d7d4e !important;
+    }
+    
+    .navbar-nav li a:hover {
+        opacity: 0.5;
+        color: #fff !important
+    }
+    
+    .header-transparent .logo-area {
+        margin-top: 48px !important
+    }
+}
+
+@media (max-width: 767px)
+{
+    .header-transparent .logo-area {
+        float: left !important;
+        margin-top: 46px !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px)
+{
+    .header.header-transparent .navbar-toggler {
+        margin-left: auto;
+        margin-top: 0px;
+    }
+}

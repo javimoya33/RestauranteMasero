@@ -1,0 +1,3399 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Deliciko\n"
+"POT-Creation-Date: 2022-04-14 15:28+0600\n"
+"PO-Revision-Date: 2022-04-14 15:28+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:16
+msgid "404"
+msgstr ""
+
+#: 404.php:19
+msgid "Oops... Page Not Found!"
+msgstr ""
+
+#: 404.php:22
+msgid "Try using the button below to go to main page of the site"
+msgstr ""
+
+#: 404.php:23
+msgid "Back to Home Page"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/post-type/post-class.php:30
+#: PLUGINS/deliciko-essential/includes/post-type/post-class.php:81
+msgid "Add New "
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/post-type/post-class.php:31
+#: PLUGINS/deliciko-essential/includes/post-type/post-class.php:82
+msgid "Edit "
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/post-type/post-class.php:32
+#: PLUGINS/deliciko-essential/includes/post-type/post-class.php:80
+msgid "New "
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/post-type/post-class.php:33
+msgid "View "
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/post-type/post-class.php:34
+#: PLUGINS/deliciko-essential/includes/post-type/post-class.php:85
+msgid "Search "
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/post-type/post-class.php:35
+#: PLUGINS/deliciko-essential/includes/post-type/post-class.php:36
+msgid "No "
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/post-type/post-class.php:37
+#: PLUGINS/deliciko-essential/includes/post-type/post-class.php:88
+#: PLUGINS/deliciko-essential/includes/post-type/post-class.php:90
+msgid "Parent "
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/post-type/post-class.php:83
+msgid "Update "
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/post-type/post-class.php:84
+msgid "Add or remove "
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/post-type/post-class.php:86
+msgid "Popular "
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/post-type/post-class.php:87
+msgid "All "
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/post-type/post-class.php:89
+msgid "Choose from the most used "
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/footer-address/widget-class.php:12
+#: PLUGINS/deliciko-essential/includes/widgets/footer-address/widget-class.php:15
+msgid "Deliciko footer address"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/footer-address/widget-class.php:119
+msgid "Footer address"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/footer-address/widget-class.php:155
+#: PLUGINS/deliciko-essential/includes/widgets/service-hour/widget-class.php:173
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:285
+#: components/editor/elementor/widgets/chef-slider.php:208
+#: components/editor/elementor/widgets/chef.php:161
+#: components/editor/elementor/widgets/event.php:41
+#: components/editor/elementor/widgets/event.php:164
+#: components/editor/elementor/widgets/feature.php:41
+#: components/editor/elementor/widgets/feature.php:113
+#: components/editor/elementor/widgets/food-list.php:137
+#: components/editor/elementor/widgets/food-menu.php:291
+#: components/editor/elementor/widgets/foodblog.php:165
+#: components/editor/elementor/widgets/title.php:18
+#: components/editor/elementor/widgets/title.php:141
+#: components/option-types/fw-multi-inline/class-fw-option-type-fw-multi-inline.php:69
+#: components/theme/options/customizer/options-footer.php:76
+#: components/theme/options/customizer/options-general.php:88
+#: components/theme/options/customizer/options-header.php:175
+#: components/theme/options/posts/ts-chef.php:28
+msgid "Title"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/footer-address/widget-class.php:159
+msgid "Message"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/footer-address/widget-class.php:165
+#: components/theme/options/customizer/options-header.php:143
+msgid "Address"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/footer-address/widget-class.php:171
+msgid "Mobile"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/footer-address/widget-class.php:177
+msgid "Media icon"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/footer-address/widget-class.php:183
+msgid "Map icon"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/footer-address/widget-class.php:189
+msgid "Map button"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/instagram/widget-class.php:15
+msgid "Deliciko instagram"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/instagram/widget-class.php:59
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:313
+msgid "Instagram"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/instagram/widget-class.php:74
+#: PLUGINS/deliciko-essential/includes/widgets/recent-post/widget-class.php:103
+#: PLUGINS/deliciko-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:77
+msgid "Title:"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/instagram/widget-class.php:80
+msgid "Log in and get my Access Token and User ID"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/instagram/widget-class.php:85
+msgid "Access token:"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/instagram/widget-class.php:90
+msgid "Count:"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/recent-post/widget-class.php:11
+msgid "Recent post with thumbnail"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/recent-post/widget-class.php:14
+msgid "Deliciko recent post"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/recent-post/widget-class.php:55
+msgid "thumb"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/recent-post/widget-class.php:73
+msgid "No post avainable"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/recent-post/widget-class.php:94
+msgid "Recent posts"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/recent-post/widget-class.php:107
+msgid "Number of posts:"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/service-hour/widget-class.php:10
+#: PLUGINS/deliciko-essential/includes/widgets/service-hour/widget-class.php:13
+msgid "Deliciko Service Hour"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/service-hour/widget-class.php:65
+#: PLUGINS/deliciko-essential/includes/widgets/service-hour/widget-class.php:189
+msgid "Monday"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/service-hour/widget-class.php:71
+#: PLUGINS/deliciko-essential/includes/widgets/service-hour/widget-class.php:195
+msgid "Tuesday"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/service-hour/widget-class.php:77
+#: PLUGINS/deliciko-essential/includes/widgets/service-hour/widget-class.php:201
+msgid "Wednesday"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/service-hour/widget-class.php:83
+#: PLUGINS/deliciko-essential/includes/widgets/service-hour/widget-class.php:207
+msgid "Thursday"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/service-hour/widget-class.php:89
+#: PLUGINS/deliciko-essential/includes/widgets/service-hour/widget-class.php:213
+msgid "Friday"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/service-hour/widget-class.php:96
+#: PLUGINS/deliciko-essential/includes/widgets/service-hour/widget-class.php:177
+msgid "Saturday"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/service-hour/widget-class.php:103
+#: PLUGINS/deliciko-essential/includes/widgets/service-hour/widget-class.php:183
+msgid "Sunday"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/service-hour/widget-class.php:134
+msgid "Service hour"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:10
+msgid "Deliciko Social"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:13
+msgid "Deliciko social"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:203
+#: components/editor/elementor/widgets/chef-slider.php:270
+#: components/editor/elementor/widgets/chef.php:223
+#: components/theme/options/posts/ts-chef.php:20
+msgid "Social"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:289
+msgid "Facebook:"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:295
+msgid "Twitter"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:301
+msgid "Google Plus"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:307
+msgid "Pinterest"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:319
+msgid "Linkedin"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:325
+msgid "behance"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:331
+msgid "flickr"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:337
+msgid "github"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:343
+msgid "soundcloud"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:349
+msgid "skype"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:356
+msgid "stumbleupon"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:362
+msgid "tumblr"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:368
+msgid "vimeo"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:374
+msgid "vine"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:380
+msgid "vk"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:386
+msgid "xing"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/social/widget-class.php:392
+msgid "yelp"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:10
+#: PLUGINS/deliciko-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:13
+msgid "Deliciko twitter feed"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:25
+#: PLUGINS/deliciko-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:66
+msgid "Loading!"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:62
+msgid "Twitter feed"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:81
+msgid "Username:"
+msgstr ""
+
+#: PLUGINS/deliciko-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:87
+msgid "Loading text:"
+msgstr ""
+
+#: comments.php:25
+msgid "Comments "
+msgstr ""
+
+#: comments.php:27
+msgid "Comment "
+msgstr ""
+
+#: comments.php:38 comments.php:68
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:71
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:74
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:81
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:102
+msgid "Enter Name"
+msgstr ""
+
+#: comments.php:103
+msgid "Enter Email"
+msgstr ""
+
+#: comments.php:104
+msgid "Enter Website"
+msgstr ""
+
+#: comments.php:119
+msgid "Enter Comments"
+msgstr ""
+
+#: comments.php:132
+msgid "You must be"
+msgstr ""
+
+#: comments.php:132
+msgid "logged in"
+msgstr ""
+
+#: comments.php:132
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:137
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:137
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:137
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:142
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:143
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:144
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:145
+msgid "Post Comment"
+msgstr ""
+
+#: components/editor/elementor/controls/icon.php:1206
+#: components/editor/elementor/controls/icon.php:1208
+msgid "Select Icon"
+msgstr ""
+
+#: components/editor/elementor/elementor.php:88
+msgid "DELICIKO"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:18
+msgid "Deliciko chef slider"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:34
+msgid "Chef slider settings"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:41
+#: components/editor/elementor/widgets/chef.php:41
+msgid "Chef style"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:45
+#: components/editor/elementor/widgets/chef.php:45
+#: components/editor/elementor/widgets/food-list.php:45
+#: components/editor/elementor/widgets/food-menu.php:46
+#: components/editor/elementor/widgets/food-menu.php:141
+#: components/editor/elementor/widgets/food-vertical-block2.php:44
+#: components/editor/elementor/widgets/testimonial.php:41
+#: components/editor/elementor/widgets/title.php:46
+msgid "Style 1"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:46
+#: components/editor/elementor/widgets/chef.php:46
+#: components/editor/elementor/widgets/food-list.php:51
+#: components/editor/elementor/widgets/food-menu.php:52
+#: components/editor/elementor/widgets/food-menu.php:142
+#: components/editor/elementor/widgets/food-vertical-block2.php:50
+#: components/editor/elementor/widgets/testimonial.php:42
+#: components/editor/elementor/widgets/title.php:52
+msgid "Style 2"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:47
+#: components/editor/elementor/widgets/chef.php:47
+#: components/editor/elementor/widgets/food-menu.php:58
+#: components/editor/elementor/widgets/food-menu.php:143
+#: components/editor/elementor/widgets/testimonial.php:43
+#: components/editor/elementor/widgets/title.php:58
+msgid "Style 3"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:55
+#: components/editor/elementor/widgets/chef.php:55
+msgid "Select chef member"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:67
+#: components/editor/elementor/widgets/chef.php:67
+msgid "Show name"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:71
+#: components/editor/elementor/widgets/chef-slider.php:88
+#: components/editor/elementor/widgets/chef-slider.php:105
+#: components/editor/elementor/widgets/chef.php:71
+#: components/editor/elementor/widgets/chef.php:88
+#: components/editor/elementor/widgets/chef.php:105
+#: components/editor/elementor/widgets/food-list.php:125
+#: components/editor/elementor/widgets/food-menu.php:80
+#: components/editor/elementor/widgets/food-menu.php:113
+#: components/editor/elementor/widgets/food-menu.php:494
+msgid "Show"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:72
+#: components/editor/elementor/widgets/chef-slider.php:89
+#: components/editor/elementor/widgets/chef-slider.php:106
+#: components/editor/elementor/widgets/chef.php:72
+#: components/editor/elementor/widgets/chef.php:89
+#: components/editor/elementor/widgets/chef.php:106
+#: components/editor/elementor/widgets/food-list.php:126
+#: components/editor/elementor/widgets/food-menu.php:81
+#: components/editor/elementor/widgets/food-menu.php:114
+#: components/editor/elementor/widgets/food-menu.php:495
+msgid "Hide"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:84
+#: components/editor/elementor/widgets/chef.php:84
+msgid "Show designation"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:101
+#: components/editor/elementor/widgets/chef.php:101
+msgid "Show social"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:118
+msgid "Count number"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:130
+#: components/editor/elementor/widgets/owlslider.php:196
+#: components/editor/elementor/widgets/vertical-feature-slider.php:85
+#: components/editor/elementor/widgets/vertical-grid-slider.php:107
+msgid "Autoplay"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:132
+#: components/editor/elementor/widgets/chef-slider.php:144
+#: components/editor/elementor/widgets/chef-slider.php:155
+#: components/editor/elementor/widgets/food-vertical-block.php:101
+#: components/editor/elementor/widgets/food-vertical-block.php:111
+#: components/editor/elementor/widgets/food-vertical-block.php:173
+#: components/editor/elementor/widgets/food-vertical-block2.php:130
+#: components/editor/elementor/widgets/food-vertical-block2.php:140
+#: components/editor/elementor/widgets/food-vertical-block2.php:161
+#: components/editor/elementor/widgets/food-vertical-block2.php:212
+#: components/editor/elementor/widgets/foodblog.php:99
+#: components/editor/elementor/widgets/foodblog.php:121
+#: components/editor/elementor/widgets/foodblog.php:131
+#: components/editor/elementor/widgets/foodblog.php:142
+#: components/editor/elementor/widgets/foodblog.php:153
+#: components/editor/elementor/widgets/owlslider.php:94
+#: components/editor/elementor/widgets/owlslider.php:198
+#: components/editor/elementor/widgets/owlslider.php:210
+#: components/editor/elementor/widgets/owlslider.php:221
+#: components/editor/elementor/widgets/owlslider.php:332
+#: components/editor/elementor/widgets/owlslider.php:344
+#: components/editor/elementor/widgets/testimonial.php:53
+#: components/editor/elementor/widgets/testimonial.php:64
+#: components/editor/elementor/widgets/testimonial.php:74
+#: components/editor/elementor/widgets/testimonial.php:85
+#: components/editor/elementor/widgets/testimonial.php:96
+#: components/editor/elementor/widgets/title.php:95
+#: components/editor/elementor/widgets/vertical-feature-slider.php:87
+#: components/editor/elementor/widgets/vertical-feature-slider.php:99
+#: components/editor/elementor/widgets/vertical-feature-slider.php:113
+#: components/editor/elementor/widgets/vertical-feature-slider.php:123
+#: components/editor/elementor/widgets/vertical-feature-slider.php:197
+#: components/editor/elementor/widgets/vertical-grid-slider.php:109
+#: components/editor/elementor/widgets/vertical-grid-slider.php:121
+#: components/editor/elementor/widgets/vertical-grid-slider.php:135
+#: components/editor/elementor/widgets/vertical-grid-slider.php:145
+#: components/editor/elementor/widgets/vertical-grid-slider.php:207
+#: components/theme/options/customizer/options-banner.php:26
+#: components/theme/options/customizer/options-banner.php:40
+#: components/theme/options/customizer/options-banner.php:78
+#: components/theme/options/customizer/options-banner.php:92
+#: components/theme/options/customizer/options-banner.php:129
+#: components/theme/options/customizer/options-banner.php:142
+#: components/theme/options/customizer/options-blog.php:41
+#: components/theme/options/customizer/options-blog.php:55
+#: components/theme/options/customizer/options-blog.php:69
+#: components/theme/options/customizer/options-footer.php:122
+#: components/theme/options/customizer/options-general.php:17
+#: components/theme/options/customizer/options-general.php:51
+#: components/theme/options/customizer/options-general.php:65
+#: components/theme/options/customizer/options-header.php:45
+#: components/theme/options/customizer/options-header.php:59
+#: components/theme/options/customizer/options-header.php:82
+#: components/theme/options/customizer/options-header.php:134
+#: components/theme/options/customizer/options-header.php:166
+msgid "Yes"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:133
+#: components/editor/elementor/widgets/chef-slider.php:145
+#: components/editor/elementor/widgets/chef-slider.php:156
+#: components/editor/elementor/widgets/food-vertical-block.php:102
+#: components/editor/elementor/widgets/food-vertical-block.php:112
+#: components/editor/elementor/widgets/food-vertical-block.php:174
+#: components/editor/elementor/widgets/food-vertical-block2.php:131
+#: components/editor/elementor/widgets/food-vertical-block2.php:141
+#: components/editor/elementor/widgets/food-vertical-block2.php:162
+#: components/editor/elementor/widgets/food-vertical-block2.php:213
+#: components/editor/elementor/widgets/foodblog.php:100
+#: components/editor/elementor/widgets/foodblog.php:122
+#: components/editor/elementor/widgets/foodblog.php:132
+#: components/editor/elementor/widgets/foodblog.php:143
+#: components/editor/elementor/widgets/foodblog.php:154
+#: components/editor/elementor/widgets/owlslider.php:95
+#: components/editor/elementor/widgets/owlslider.php:199
+#: components/editor/elementor/widgets/owlslider.php:211
+#: components/editor/elementor/widgets/owlslider.php:222
+#: components/editor/elementor/widgets/owlslider.php:333
+#: components/editor/elementor/widgets/owlslider.php:345
+#: components/editor/elementor/widgets/testimonial.php:54
+#: components/editor/elementor/widgets/testimonial.php:65
+#: components/editor/elementor/widgets/testimonial.php:75
+#: components/editor/elementor/widgets/testimonial.php:86
+#: components/editor/elementor/widgets/testimonial.php:97
+#: components/editor/elementor/widgets/title.php:96
+#: components/editor/elementor/widgets/vertical-feature-slider.php:88
+#: components/editor/elementor/widgets/vertical-feature-slider.php:100
+#: components/editor/elementor/widgets/vertical-feature-slider.php:114
+#: components/editor/elementor/widgets/vertical-feature-slider.php:124
+#: components/editor/elementor/widgets/vertical-feature-slider.php:198
+#: components/editor/elementor/widgets/vertical-grid-slider.php:110
+#: components/editor/elementor/widgets/vertical-grid-slider.php:122
+#: components/editor/elementor/widgets/vertical-grid-slider.php:136
+#: components/editor/elementor/widgets/vertical-grid-slider.php:146
+#: components/editor/elementor/widgets/vertical-grid-slider.php:208
+#: components/theme/options/customizer/options-banner.php:30
+#: components/theme/options/customizer/options-banner.php:44
+#: components/theme/options/customizer/options-banner.php:82
+#: components/theme/options/customizer/options-banner.php:96
+#: components/theme/options/customizer/options-banner.php:133
+#: components/theme/options/customizer/options-banner.php:146
+#: components/theme/options/customizer/options-blog.php:45
+#: components/theme/options/customizer/options-blog.php:59
+#: components/theme/options/customizer/options-blog.php:73
+#: components/theme/options/customizer/options-footer.php:126
+#: components/theme/options/customizer/options-general.php:21
+#: components/theme/options/customizer/options-general.php:55
+#: components/theme/options/customizer/options-general.php:69
+#: components/theme/options/customizer/options-header.php:49
+#: components/theme/options/customizer/options-header.php:63
+#: components/theme/options/customizer/options-header.php:86
+#: components/theme/options/customizer/options-header.php:138
+#: components/theme/options/customizer/options-header.php:170
+msgid "No"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:142
+#: components/editor/elementor/widgets/owlslider.php:208
+#: components/editor/elementor/widgets/vertical-feature-slider.php:97
+#: components/editor/elementor/widgets/vertical-grid-slider.php:119
+msgid "Nav show"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:153
+#: components/editor/elementor/widgets/owlslider.php:219
+msgid "Dot nav"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:164
+#: components/editor/elementor/widgets/chef.php:117
+msgid "Text alignment"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:170
+#: components/editor/elementor/widgets/chef.php:123
+#: components/editor/elementor/widgets/event.php:132
+#: components/editor/elementor/widgets/feature.php:87
+#: components/editor/elementor/widgets/owlslider.php:84
+#: components/editor/elementor/widgets/title.php:112
+msgid "Left"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:176
+#: components/editor/elementor/widgets/chef.php:129
+#: components/editor/elementor/widgets/event.php:136
+#: components/editor/elementor/widgets/feature.php:91
+#: components/editor/elementor/widgets/owlslider.php:85
+#: components/editor/elementor/widgets/title.php:116
+msgid "Center"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:182
+#: components/editor/elementor/widgets/chef.php:135
+#: components/editor/elementor/widgets/event.php:140
+#: components/editor/elementor/widgets/feature.php:95
+#: components/editor/elementor/widgets/owlslider.php:86
+#: components/editor/elementor/widgets/title.php:120
+msgid "Right"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:188
+#: components/editor/elementor/widgets/chef.php:141
+#: components/editor/elementor/widgets/event.php:144
+#: components/editor/elementor/widgets/feature.php:99
+#: components/editor/elementor/widgets/title.php:124
+msgid "Justified"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:216
+#: components/editor/elementor/widgets/chef.php:169
+#: components/editor/elementor/widgets/event.php:171
+#: components/editor/elementor/widgets/feature.php:120
+#: components/editor/elementor/widgets/food-list.php:144
+#: components/editor/elementor/widgets/food-menu.php:298
+#: components/editor/elementor/widgets/food-vertical-block.php:234
+#: components/editor/elementor/widgets/food-vertical-block2.php:273
+#: components/editor/elementor/widgets/foodblog.php:173
+#: components/editor/elementor/widgets/owlslider.php:271
+#: components/editor/elementor/widgets/title.php:148
+#: components/editor/elementor/widgets/vertical-feature-slider.php:258
+#: components/editor/elementor/widgets/vertical-grid-slider.php:268
+#: components/theme/options/customizer/options-banner.php:199
+#: components/theme/options/customizer/options-style.php:22
+msgid "Title color"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:229
+#: components/editor/elementor/widgets/chef.php:182
+msgid "Name typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:240
+#: components/editor/elementor/widgets/chef.php:193
+#: components/theme/options/posts/ts-chef.php:15
+msgid "Designation"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:247
+#: components/editor/elementor/widgets/chef.php:200
+#: components/editor/elementor/widgets/testimonial.php:341
+#: components/editor/elementor/widgets/testimonial.php:419
+#: components/editor/elementor/widgets/testimonial.php:483
+msgid "Designation color"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:259
+#: components/editor/elementor/widgets/chef.php:212
+#: components/editor/elementor/widgets/testimonial.php:368
+#: components/editor/elementor/widgets/testimonial.php:434
+#: components/editor/elementor/widgets/testimonial.php:498
+msgid "Designation typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:280
+#: components/editor/elementor/widgets/chef.php:233
+msgid "Social color"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:294
+#: components/editor/elementor/widgets/chef.php:247
+msgid "Social Margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:307
+#: components/editor/elementor/widgets/chef.php:260
+msgid "Advanced Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:316
+#: components/editor/elementor/widgets/chef.php:269
+msgid "Chef info"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:326
+#: components/editor/elementor/widgets/chef.php:279
+msgid "Chef Content Border"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:336
+#: components/editor/elementor/widgets/chef.php:289
+msgid "Content hover bgcolor"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:350
+#: components/editor/elementor/widgets/chef.php:303
+msgid "Content bgcolor"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:361
+#: components/editor/elementor/widgets/chef.php:314
+msgid "Chef border"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef-slider.php:372
+#: components/editor/elementor/widgets/chef.php:325
+msgid "Chef Border"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef.php:18
+msgid "Deliciko chef"
+msgstr ""
+
+#: components/editor/elementor/widgets/chef.php:34
+#: components/theme/options/posts/ts-chef.php:8
+msgid "Chef settings"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:18
+msgid "Event reservation"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:34
+msgid "Deliciko Event"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:44
+#: components/editor/elementor/widgets/feature.php:44
+#: components/editor/elementor/widgets/feature.php:45
+msgid "Best food quality"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:45
+msgid "Good time for barbecue"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:51
+#: components/editor/elementor/widgets/event.php:192
+#: components/editor/elementor/widgets/feature.php:51
+#: components/editor/elementor/widgets/feature.php:163
+#: components/editor/elementor/widgets/foodblog.php:206
+msgid "Content"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:54
+msgid "At Bagatelle we are committed to provide excellent service"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:63
+msgid "Choose Image"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:74
+msgid "Event Date"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:86
+msgid "Start Time"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:89
+#: components/editor/elementor/widgets/event.php:90
+msgid "7:00"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:96
+msgid "End Time"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:99
+#: components/editor/elementor/widgets/event.php:100
+msgid "9:00"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:107
+msgid "Button text"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:110
+#: components/editor/elementor/widgets/event.php:111
+#: components/theme/options/customizer/options-header.php:93
+#: template-parts/headers/header-classic.php:21
+#: template-parts/headers/header-transparent.php:23
+#: template-parts/headers/header-transparent2.php:26
+msgid "Book a table"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:117
+msgid "Button url"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:120
+#: components/editor/elementor/widgets/event.php:121
+#: components/theme/options/posts/ts-chef.php:33
+msgid "#"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:127
+#: components/editor/elementor/widgets/feature.php:82
+#: components/editor/elementor/widgets/title.php:107
+msgid "Alignment"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:199
+#: components/editor/elementor/widgets/feature.php:170
+#: components/editor/elementor/widgets/foodblog.php:217
+#: components/editor/elementor/widgets/testimonial.php:176
+msgid "Content color"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:219
+#: components/editor/elementor/widgets/feature.php:63
+#: components/editor/elementor/widgets/feature.php:190
+#: components/editor/elementor/widgets/food-menu.php:590
+#: components/editor/elementor/widgets/title.php:82
+#: components/editor/elementor/widgets/title.php:305
+msgid "Icon"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:226
+msgid "Date icon color"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:235
+msgid "Time icon color"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:256
+msgid "Reservation button"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:262
+msgid "color"
+msgstr ""
+
+#: components/editor/elementor/widgets/event.php:271
+msgid "bgcolor"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature.php:18
+msgid "Feature"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature.php:34
+msgid "Deliciko Featured Box"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature.php:54
+msgid "Which i enjoy with my whole heart"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature.php:55
+msgid "Which i enjoy with my whole heart."
+msgstr ""
+
+#: components/editor/elementor/widgets/feature.php:73
+#: components/editor/elementor/widgets/feature.php:215
+msgid "Background icon"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature.php:129
+msgid "Title heighlight color"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature.php:148
+#: components/editor/elementor/widgets/food-vertical-block.php:270
+#: components/editor/elementor/widgets/food-vertical-block2.php:333
+#: components/editor/elementor/widgets/vertical-feature-slider.php:305
+#: components/editor/elementor/widgets/vertical-grid-slider.php:304
+msgid "Title Margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature.php:197
+#: components/editor/elementor/widgets/title.php:339
+msgid "Icon color"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature.php:225
+msgid "Background icon size"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature.php:234
+msgid "Background icon position Y"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature.php:257
+msgid "Background icon position X"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:18
+msgid "Food list"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:33
+msgid "Food list settings"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:40
+msgid "Food list Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:68
+#: components/editor/elementor/widgets/food-list.php:181
+#: components/editor/elementor/widgets/food-menu.php:126
+#: components/editor/elementor/widgets/food-menu.php:356
+msgid "Currency "
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:70
+#: components/editor/elementor/widgets/food-menu.php:128
+msgid "$"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:82
+#: components/editor/elementor/widgets/food-menu.php:157
+msgid "Food Type"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:94
+#: components/editor/elementor/widgets/food-menu.php:169
+msgid " Number of food items"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:109
+#: components/editor/elementor/widgets/food-menu.php:182
+msgid "Food order"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:113
+#: components/editor/elementor/widgets/food-menu.php:186
+#: components/editor/elementor/widgets/foodblog.php:87
+msgid "ASC"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:114
+#: components/editor/elementor/widgets/food-menu.php:187
+#: components/editor/elementor/widgets/foodblog.php:88
+msgid "DESC"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:123
+#: components/editor/elementor/widgets/food-menu.php:492
+msgid "Show Item Status"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:159
+#: components/editor/elementor/widgets/food-menu.php:311
+msgid "Title BG color"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:188
+#: components/editor/elementor/widgets/food-menu.php:363
+msgid "Currency color"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:211
+#: components/editor/elementor/widgets/food-menu.php:386
+msgid "Price "
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:218
+#: components/editor/elementor/widgets/food-menu.php:393
+msgid "Price color"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:229
+#: components/editor/elementor/widgets/food-menu.php:406
+msgid "Price bg color"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:245
+#: components/editor/elementor/widgets/food-list.php:365
+#: components/editor/elementor/widgets/food-menu.php:424
+#: components/editor/elementor/widgets/owlslider.php:430
+msgid "Border"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:262
+#: components/editor/elementor/widgets/food-menu.php:443
+msgid "Ingredient "
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:269
+#: components/editor/elementor/widgets/food-menu.php:450
+msgid "Ingredient color"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:292
+#: components/editor/elementor/widgets/food-menu.php:485
+msgid "Item Status "
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:299
+#: components/editor/elementor/widgets/food-menu.php:502
+msgid "Status color"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:312
+#: components/editor/elementor/widgets/food-menu.php:515
+msgid "Status background"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:334
+msgid "Advance "
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:342
+msgid "Content Margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-list.php:353
+msgid "Content Padding"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:19
+msgid "Food tab"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:34
+msgid "Food menu settings"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:41
+msgid "Food Menu Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:64
+msgid "Style 4"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:78
+msgid "Show Tab menu"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:93
+msgid "Column"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:97
+msgid "2"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:98
+msgid "1"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:111
+msgid "Show food image"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:137
+msgid "Tab menu Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:198
+msgid "Tab menu"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:204
+msgid "Tab Menu color"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:214
+msgid "Tab Menu active color"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:225
+msgid "Tab Menu Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:233
+msgid "Tab Menu  icon Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:243
+msgid "Margin bottom"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:265
+msgid "Tab Menu Border bottom color"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:276
+msgid "Menu Border angle color"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:323
+msgid "Title Border color"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:343
+#: components/editor/elementor/widgets/title.php:351
+msgid "Margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:471
+#: components/editor/elementor/widgets/food-menu.php:634
+msgid "Block Content Margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:537
+msgid "Tab menu "
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:547
+msgid "Text"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:559
+msgid "Text active"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:578
+msgid "Tab background"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:611
+msgid "Main section"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-menu.php:622
+#: components/editor/elementor/widgets/owlslider.php:459
+msgid "Padding"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:16
+msgid "Post vertical grid"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:32
+#: components/editor/elementor/widgets/food-vertical-block2.php:32
+#: components/editor/elementor/widgets/vertical-feature-slider.php:32
+#: components/editor/elementor/widgets/vertical-grid-slider.php:32
+msgid "Post"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:39
+#: components/editor/elementor/widgets/food-vertical-block2.php:66
+#: components/editor/elementor/widgets/foodblog.php:38
+#: components/editor/elementor/widgets/vertical-feature-slider.php:42
+#: components/editor/elementor/widgets/vertical-grid-slider.php:40
+msgid "Post count"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:48
+#: components/editor/elementor/widgets/food-vertical-block2.php:75
+#: components/editor/elementor/widgets/foodblog.php:59
+msgid "Post Column"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:52
+#: components/editor/elementor/widgets/food-vertical-block2.php:79
+#: components/editor/elementor/widgets/foodblog.php:63
+msgid "4 Column "
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:53
+#: components/editor/elementor/widgets/food-vertical-block2.php:80
+#: components/editor/elementor/widgets/foodblog.php:64
+msgid "3 Column"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:54
+#: components/editor/elementor/widgets/food-vertical-block2.php:81
+#: components/editor/elementor/widgets/foodblog.php:65
+msgid "2 Column"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:63
+#: components/editor/elementor/widgets/food-vertical-block2.php:90
+#: components/editor/elementor/widgets/vertical-feature-slider.php:51
+#: components/editor/elementor/widgets/vertical-grid-slider.php:49
+msgid "Post title crop"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:72
+#: components/editor/elementor/widgets/food-vertical-block2.php:101
+#: components/editor/elementor/widgets/vertical-feature-slider.php:60
+#: components/editor/elementor/widgets/vertical-grid-slider.php:58
+msgid "Select Post Format"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:75
+#: components/editor/elementor/widgets/food-vertical-block2.php:104
+#: components/editor/elementor/widgets/vertical-feature-slider.php:63
+#: components/editor/elementor/widgets/vertical-grid-slider.php:61
+msgid "Standard"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:76
+#: components/editor/elementor/widgets/food-vertical-block2.php:105
+#: components/editor/elementor/widgets/vertical-feature-slider.php:64
+#: components/editor/elementor/widgets/vertical-grid-slider.php:62
+msgid "Video"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:86
+#: components/editor/elementor/widgets/food-vertical-block2.php:115
+#: components/editor/elementor/widgets/vertical-feature-slider.php:74
+#: components/editor/elementor/widgets/vertical-grid-slider.php:72
+msgid "Select Categories"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:99
+#: components/editor/elementor/widgets/food-vertical-block2.php:128
+#: components/editor/elementor/widgets/vertical-feature-slider.php:111
+#: components/editor/elementor/widgets/vertical-grid-slider.php:133
+msgid "Show Category"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:109
+#: components/editor/elementor/widgets/food-vertical-block2.php:159
+#: components/editor/elementor/widgets/vertical-feature-slider.php:121
+#: components/editor/elementor/widgets/vertical-grid-slider.php:143
+msgid "Show Rating"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:120
+#: components/editor/elementor/widgets/food-vertical-block2.php:170
+#: components/editor/elementor/widgets/vertical-feature-slider.php:132
+#: components/editor/elementor/widgets/vertical-grid-slider.php:154
+msgid "Post sort by"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:124
+#: components/editor/elementor/widgets/food-vertical-block2.php:174
+#: components/editor/elementor/widgets/vertical-feature-slider.php:136
+#: components/editor/elementor/widgets/vertical-grid-slider.php:158
+msgid "Latest posts"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:125
+#: components/editor/elementor/widgets/food-vertical-block2.php:175
+#: components/editor/elementor/widgets/vertical-feature-slider.php:137
+#: components/editor/elementor/widgets/vertical-grid-slider.php:159
+msgid "Popular posts"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:126
+#: components/editor/elementor/widgets/food-vertical-block2.php:176
+#: components/editor/elementor/widgets/vertical-feature-slider.php:138
+#: components/editor/elementor/widgets/vertical-grid-slider.php:160
+msgid "Most discussed"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:134
+#: components/editor/elementor/widgets/food-vertical-block2.php:184
+#: components/editor/elementor/widgets/vertical-feature-slider.php:146
+#: components/editor/elementor/widgets/vertical-grid-slider.php:168
+msgid "Post order"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:138
+#: components/editor/elementor/widgets/food-vertical-block2.php:188
+#: components/editor/elementor/widgets/vertical-feature-slider.php:150
+#: components/editor/elementor/widgets/vertical-grid-slider.php:172
+msgid "Descending"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:139
+#: components/editor/elementor/widgets/food-vertical-block2.php:189
+#: components/editor/elementor/widgets/vertical-feature-slider.php:151
+#: components/editor/elementor/widgets/vertical-grid-slider.php:173
+msgid "Ascending"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:148
+#: components/editor/elementor/widgets/food-vertical-block2.php:198
+#: components/editor/elementor/widgets/vertical-feature-slider.php:160
+#: components/editor/elementor/widgets/vertical-grid-slider.php:182
+msgid "Post Margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:160
+#: components/editor/elementor/widgets/vertical-feature-slider.php:184
+#: components/editor/elementor/widgets/vertical-grid-slider.php:194
+msgid "Post Content Padding"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:171
+#: components/editor/elementor/widgets/food-vertical-block2.php:210
+#: components/editor/elementor/widgets/vertical-feature-slider.php:195
+#: components/editor/elementor/widgets/vertical-grid-slider.php:205
+msgid "Post skip"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:182
+#: components/editor/elementor/widgets/food-vertical-block2.php:221
+#: components/editor/elementor/widgets/vertical-feature-slider.php:206
+#: components/editor/elementor/widgets/vertical-grid-slider.php:216
+msgid "Skip post count"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:193
+#: components/editor/elementor/widgets/food-vertical-block2.php:232
+#: components/editor/elementor/widgets/vertical-feature-slider.php:217
+#: components/editor/elementor/widgets/vertical-grid-slider.php:227
+msgid "Thumbnail height"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:226
+#: components/editor/elementor/widgets/food-vertical-block2.php:265
+#: components/editor/elementor/widgets/vertical-feature-slider.php:250
+#: components/editor/elementor/widgets/vertical-grid-slider.php:260
+msgid " Post"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:247
+#: components/editor/elementor/widgets/food-vertical-block2.php:286
+#: components/editor/elementor/widgets/vertical-feature-slider.php:271
+#: components/editor/elementor/widgets/vertical-grid-slider.php:281
+msgid "Title hover color"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:261
+#: components/editor/elementor/widgets/food-vertical-block2.php:300
+#: components/editor/elementor/widgets/vertical-feature-slider.php:296
+#: components/editor/elementor/widgets/vertical-grid-slider.php:295
+msgid "Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:282
+#: components/editor/elementor/widgets/food-vertical-block2.php:345
+#: components/editor/elementor/widgets/vertical-feature-slider.php:317
+#: components/editor/elementor/widgets/vertical-grid-slider.php:316
+msgid "Meta color"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block.php:297
+#: components/editor/elementor/widgets/food-vertical-block2.php:360
+#: components/editor/elementor/widgets/vertical-feature-slider.php:331
+#: components/editor/elementor/widgets/vertical-grid-slider.php:331
+msgid "Rating bar color"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block2.php:16
+msgid "Post vertical grid 2"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block2.php:39
+msgid "Choose Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block2.php:138
+msgid "Show Desc"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block2.php:150
+msgid "Post content crop"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block2.php:309
+msgid "Desc color"
+msgstr ""
+
+#: components/editor/elementor/widgets/food-vertical-block2.php:323
+msgid "Desc Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/foodblog.php:17
+msgid "Food blog "
+msgstr ""
+
+#: components/editor/elementor/widgets/foodblog.php:31
+msgid "Latest food news"
+msgstr ""
+
+#: components/editor/elementor/widgets/foodblog.php:47
+msgid "Category"
+msgstr ""
+
+#: components/editor/elementor/widgets/foodblog.php:73
+msgid "Title limit"
+msgstr ""
+
+#: components/editor/elementor/widgets/foodblog.php:83
+msgid "Sort By"
+msgstr ""
+
+#: components/editor/elementor/widgets/foodblog.php:97
+msgid "Show description"
+msgstr ""
+
+#: components/editor/elementor/widgets/foodblog.php:107
+msgid "Description limit"
+msgstr ""
+
+#: components/editor/elementor/widgets/foodblog.php:119
+msgid "Show category"
+msgstr ""
+
+#: components/editor/elementor/widgets/foodblog.php:129
+msgid "Show Date"
+msgstr ""
+
+#: components/editor/elementor/widgets/foodblog.php:140
+msgid "Show Author"
+msgstr ""
+
+#: components/editor/elementor/widgets/foodblog.php:151
+msgid "Show Readmore"
+msgstr ""
+
+#: components/editor/elementor/widgets/foodblog.php:185
+msgid "Title hover"
+msgstr ""
+
+#: components/editor/elementor/widgets/foodblog.php:237
+msgid "Readmore"
+msgstr ""
+
+#: components/editor/elementor/widgets/foodblog.php:246
+msgid "Readmore color"
+msgstr ""
+
+#: components/editor/elementor/widgets/foodblog.php:258
+msgid "Readmore hover"
+msgstr ""
+
+#: components/editor/elementor/widgets/foodblog.php:352
+msgid "Read More"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:15
+msgid "Deliciko main sliders"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:30
+msgid "Deliciko Slider"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:38
+msgid "Slider Sub Title"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:40
+msgid "Eat Different"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:47
+msgid "Slider Main Title"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:49
+#: components/editor/elementor/widgets/owlslider.php:109
+#: components/editor/elementor/widgets/owlslider.php:112
+#: components/editor/elementor/widgets/owlslider.php:115
+#: components/editor/elementor/widgets/testimonial.php:146
+#: components/editor/elementor/widgets/testimonial.php:150
+#: components/editor/elementor/widgets/testimonial.php:155
+msgid "Speak with the taste "
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:55
+msgid "Background Image"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:63
+msgid "Button Text"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:65
+#: components/editor/elementor/widgets/owlslider.php:355
+msgid "Button "
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:71
+msgid "Button"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:80
+msgid "Content Alignment"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:92
+msgid "Justify content"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:104
+msgid "Main Slider"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:126
+msgid "Slider Height"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:156
+msgid "Heading Type"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:160
+msgid "H1"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:161
+msgid "H2"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:162
+msgid "H3"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:163
+msgid "H4"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:164
+msgid "H5"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:165
+msgid "H6"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:166
+msgid "P"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:173
+msgid "Title position"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:177
+msgid "After"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:178
+msgid "Before"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:188
+#: components/editor/elementor/widgets/testimonial.php:169
+msgid "Style Section"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:232
+msgid "Title "
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:238
+msgid "Top title color"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:251
+msgid "Top Title Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:259
+msgid "Top TItle Margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:286
+#: components/editor/elementor/widgets/testimonial.php:330
+#: components/editor/elementor/widgets/testimonial.php:408
+#: components/editor/elementor/widgets/testimonial.php:472
+msgid "Title Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:294
+#: components/editor/elementor/widgets/owlslider.php:438
+msgid "TItle Margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:308
+msgid "Sub Title Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:315
+msgid "Sub Title color"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:330
+msgid "Left Subtitle Border show"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:342
+msgid "Right Subtitle Border show"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:361
+msgid "Button color"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:373
+msgid "Button BG color"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:384
+msgid "Button BG Hover color"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:395
+msgid "Shadow color"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:406
+msgid "Btn Hover Shadow color"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:417
+msgid "Btn Hover border color"
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:451
+msgid "Additional "
+msgstr ""
+
+#: components/editor/elementor/widgets/owlslider.php:469
+msgid "BG overlay color"
+msgstr ""
+
+#: components/editor/elementor/widgets/resurvation-table.php:15
+#: components/editor/elementor/widgets/resurvation-table.php:30
+msgid "Deliciko Reservation Table"
+msgstr ""
+
+#: components/editor/elementor/widgets/resurvation-table.php:36
+msgid "Reservation Table Link"
+msgstr ""
+
+#: components/editor/elementor/widgets/resurvation-table.php:45
+msgid "Button Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/resurvation-table.php:54
+msgid "Button BG Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:14
+msgid "Deliciko Testimonial"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:29
+msgid "Deliciko Quote Carousel"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:37
+msgid "Testimonial Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:51
+msgid "Show client image"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:62
+msgid "Show Navigation"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:72
+msgid "Show Pagination"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:83
+msgid "Auto play"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:94
+msgid "Slider loop"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:107
+msgid "Qoute Content"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:109
+msgid ""
+" A small river named Duden flows by their place and supplies it with the "
+"necessary regelialia. It is\n"
+"               a paradisematic country, in which"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:116
+msgid "Client Name"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:118
+msgid "Quote Carousel #1"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:124
+msgid "Client designation"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:126
+msgid "CEO,apple"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:132
+msgid "Client Photo"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:141
+msgid "Quote Carousel"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:147
+#: components/editor/elementor/widgets/testimonial.php:151
+#: components/editor/elementor/widgets/testimonial.php:156
+msgid ""
+" A small river named Duden flows by their place and supplies it with the "
+"necessary regelialia. It is a paradisematic country, in which"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:186
+msgid "Qoute color"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:201
+msgid "Content Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:211
+msgid "Background"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:224
+#: components/editor/elementor/widgets/testimonial.php:381
+msgid "Section Left"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:235
+msgid "Left content color"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:250
+#: components/editor/elementor/widgets/testimonial.php:251
+msgid "Background Left"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:265
+msgid "Section right"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:276
+msgid "Right content color"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:290
+#: components/editor/elementor/widgets/testimonial.php:291
+msgid "Background Right"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:307
+msgid "Testimonial Footer Section"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:314
+#: components/editor/elementor/widgets/testimonial.php:392
+#: components/editor/elementor/widgets/testimonial.php:457
+msgid "Client Title color"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:353
+msgid "Pagination color"
+msgstr ""
+
+#: components/editor/elementor/widgets/testimonial.php:446
+msgid "Section Right"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:34
+msgid "Title settings"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:41
+msgid "Title style"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:71
+msgid "Heading Title"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:74
+msgid "Breakfast"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:75
+msgid "why {choose} us"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:93
+msgid "Show title border"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:168
+msgid "Tilte Margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:184
+msgid "Title border"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:195
+msgid "Title border color"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:209
+msgid "Border width"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:234
+msgid "Border height"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:258
+msgid "Border bottom"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:285
+msgid "Title highlight"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:292
+msgid "Highlight color"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:317
+msgid "Icon typhography"
+msgstr ""
+
+#: components/editor/elementor/widgets/vertical-feature-slider.php:16
+msgid "Post vertical fature slider"
+msgstr ""
+
+#: components/editor/elementor/widgets/vertical-feature-slider.php:172
+msgid "Feature Content Padding"
+msgstr ""
+
+#: components/editor/elementor/widgets/vertical-feature-slider.php:285
+msgid "Feature Title Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/vertical-grid-slider.php:16
+msgid "Post vertical grid slider"
+msgstr ""
+
+#: components/editor/elementor/widgets/vertical-grid-slider.php:84
+msgid "slider number"
+msgstr ""
+
+#: components/editor/elementor/widgets/vertical-grid-slider.php:95
+msgid "slider margin"
+msgstr ""
+
+#: components/option-types/fw-multi-inline/class-fw-option-type-fw-multi-inline.php:71
+msgid "select1"
+msgstr ""
+
+#: components/option-types/fw-multi-inline/class-fw-option-type-fw-multi-inline.php:72
+msgid "select2"
+msgstr ""
+
+#: components/option-types/fw-multi-inline/class-fw-option-type-fw-multi-inline.php:73
+msgid "select3"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:143
+msgid "Unknown Set"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:157
+msgid "Web Application Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:158
+msgid "Hand Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:159
+msgid "Transportation Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:160
+msgid "Gender Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:161
+msgid "File Type Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:162
+msgid "Payment Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:163
+msgid "Currency Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:164
+msgid "Text Editor Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:165
+msgid "Directional Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:166
+msgid "Video Player Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:167
+msgid "Brand Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:168
+msgid "Medical Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:169
+msgid "deliciko Icons"
+msgstr ""
+
+#: components/option-types/new-icon/view.php:39
+msgid "All Categories"
+msgstr ""
+
+#: components/option-types/new-icon/view.php:47
+msgid "icon search"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: components/theme/manifest.php:5
+msgid "Deliciko"
+msgstr ""
+
+#: components/theme/manifest.php:7
+msgid "Restaurant WordPress Theme"
+msgstr ""
+
+#: components/theme/options/customizer.php:8
+msgid "Theme settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:9
+msgid "Banner Settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:14
+msgid "Page Banner settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:15
+msgid "Page banner settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:16
+msgid "Edit page Banner Button"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:21
+#: components/theme/options/customizer/options-banner.php:73
+#: components/theme/options/customizer/options-banner.php:125
+msgid "Show banner?"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:22
+#: components/theme/options/customizer/options-banner.php:74
+msgid "Show or hide the banner"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:35
+#: components/theme/options/customizer/options-banner.php:87
+msgid "Show Breadcrumb?"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:36
+#: components/theme/options/customizer/options-banner.php:88
+msgid "Show or hide the Breadcrumb"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:49
+#: components/theme/options/customizer/options-banner.php:101
+#: components/theme/options/posts/page.php:14
+msgid "Banner title"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:54
+#: components/theme/options/customizer/options-banner.php:158
+msgid "Banner image"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:66
+msgid "Blog Banner settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:67
+msgid "Blog banner settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:68
+msgid "Edit Blog Banner Button"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:106
+#: components/theme/options/posts/ts-foodmenu.php:45
+msgid "Image"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:107
+msgid "Banner blog image"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:118
+#: components/theme/options/customizer/options-banner.php:119
+msgid "Shop banner settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:120
+msgid "Edit shop banner settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:138
+msgid "Show breadcrumb?"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:150
+msgid "Shop Banner title"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:154
+msgid "Single Shop Banner title"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:167
+msgid "Banner Title Style"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:168
+msgid "banner settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:169
+msgid "Edit Banner Button"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:174
+msgid "Banner Overlay color"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:175
+msgid "banner overlay  color."
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:194
+msgid "Banner Heading"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:195
+#: components/theme/options/customizer/options-style.php:62
+#: components/theme/options/customizer/options-style.php:81
+#: components/theme/options/customizer/options-style.php:100
+msgid "This is for heading google fonts"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:200
+#: components/theme/options/customizer/options-style.php:23
+msgid "title color."
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:204
+msgid "Heiglight Title color"
+msgstr ""
+
+#: components/theme/options/customizer/options-banner.php:205
+msgid " Heiglight title color."
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:8
+msgid "Blog settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:14
+msgid "Sidebar"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:15
+msgid "Description"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:16
+msgid "Help tip"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:18
+msgid "No sidebar"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:19
+msgid "Left Sidebar"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:20
+msgid "Right Sidebar"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:27
+msgid "Global blog title"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:31
+msgid "Global header background image"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:36
+#: components/theme/options/customizer/options-general.php:60
+msgid "Breadcrumb"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:37
+#: components/theme/options/customizer/options-general.php:61
+msgid "Do you want to show breadcrumb?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:50
+msgid "Blog author"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:51
+msgid "Do you want to show blog author?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:64
+msgid "Social share"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:65
+msgid "Do you want to show social share buttons?"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:8
+msgid "Footer settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:18
+msgid "Select Style"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:51
+msgid "Mailchimp Shortcode"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:57
+msgid "Footer Background color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:59
+#: components/theme/options/customizer/options-footer.php:64
+msgid ""
+"You can change the footer's background color with rgba color or solid color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:62
+msgid "Footer Copyright color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:70
+#: components/theme/options/customizer/options-general.php:82
+msgid "Social links"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:71
+#: components/theme/options/customizer/options-general.php:83
+msgid ""
+"Add social links and it's icon class bellow. These are all fontaweseome-4.7 "
+"icons."
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:72
+#: components/theme/options/customizer/options-general.php:84
+msgid "Add new"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:80
+#: components/theme/options/customizer/options-general.php:92
+msgid "Social icon"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:84
+#: components/theme/options/customizer/options-general.php:96
+msgid "Social link"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:93
+msgid "MailChimp Shortcode"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:100
+msgid "Copyright text"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:101
+msgid "This text will be shown at the footer of all pages."
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:105
+msgid "Footer Padding Top"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:106
+msgid "Use Footer Padding Top"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:111
+msgid "Footer Padding Bottom"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:112
+msgid "Use Footer Padding Bottom"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:119
+msgid "Back to top"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:8
+msgid "General settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:12
+msgid "Preloader show"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:13
+msgid "Do you want to show preloader on your site ?"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:25
+msgid "Preloader logo"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:26
+msgid ""
+"When you enable preloader then you can set preloader image otherwise default "
+"color preloader you will see"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:33
+msgid "Main logo"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:34
+msgid ""
+"It's the main logo, mostly it will be shown on \"dark or coloreful\" type "
+"area."
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:39
+msgid "Dark logo"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:40
+msgid "It will be shown on any \"light background\" type area."
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:46
+msgid "Sticky sidebar"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:47
+msgid "Use sticky sidebar?"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:74
+msgid "Breadcrumb word length"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:75
+msgid "The length of the breadcumb text."
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:8
+msgid "Header settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:13
+msgid "Header style"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:14
+msgid "This is the site's main header style."
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:40
+msgid "Show nav sticky?"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:41
+msgid "Show or hide the header sticky"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:54
+msgid "Show cart button?"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:55
+msgid "Show or hide the header cart button"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:69
+#: components/theme/options/customizer/options-header.php:70
+msgid "Header table button settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:71
+msgid "Edit header table button"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:77
+msgid "Show button?"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:78
+msgid "Show or hide the header button"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:92
+msgid "Button title"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:97
+msgid "Button Url"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:98
+msgid "Put the url of the button"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:104
+msgid "Header Button BG color"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:105
+msgid "button bg color set"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:110
+msgid "Header Button text color"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:111
+msgid "button text color set"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:121
+#: components/theme/options/customizer/options-header.php:122
+msgid "Header top bar settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:123
+msgid "Edit header topbar button"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:129
+msgid "Show topbar?"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:130
+msgid "Show or hide the header topbar"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:144
+#: template-parts/headers/header-transparent2.php:28
+msgid "85 Bay Meadows Drive, GA 30188, United States "
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:145
+msgid "Put the contact address for header style 3"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:150
+msgid "Contact number"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:152
+msgid "Put the contact number for header style 3"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:161
+msgid "Show contact?"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:162
+msgid "Show or hide the header contact"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:176
+msgid "Contact us for reservation"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:177
+#: components/theme/options/customizer/options-header.php:184
+msgid "put contact address for header style 1"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:182
+msgid "Number"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:183
+msgid "+123-456 7899"
+msgstr ""
+
+#: components/theme/options/customizer/options-menus.php:8
+msgid "Menu settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-menus.php:12
+msgid "Top Menu Color"
+msgstr ""
+
+#: components/theme/options/customizer/options-menus.php:13
+#: components/theme/options/customizer/options-menus.php:19
+msgid "This is the site's Top menu  color."
+msgstr ""
+
+#: components/theme/options/customizer/options-menus.php:18
+msgid "Top Social Color"
+msgstr ""
+
+#: components/theme/options/customizer/options-menus.php:25
+msgid "Menu Color"
+msgstr ""
+
+#: components/theme/options/customizer/options-menus.php:26
+msgid "This is the site's main menu  color."
+msgstr ""
+
+#: components/theme/options/customizer/options-menus.php:31
+msgid "Menu Hover Color"
+msgstr ""
+
+#: components/theme/options/customizer/options-menus.php:32
+msgid "This is the site's main menu hover color."
+msgstr ""
+
+#: components/theme/options/customizer/options-menus.php:38
+msgid "Dropdown Menu Color"
+msgstr ""
+
+#: components/theme/options/customizer/options-menus.php:39
+msgid "This is the site's main dropdown menu color."
+msgstr ""
+
+#: components/theme/options/customizer/options-menus.php:44
+msgid "Dropdown Menu Hover Color"
+msgstr ""
+
+#: components/theme/options/customizer/options-menus.php:45
+msgid "This is the site's main dropdown menu Hover color."
+msgstr ""
+
+#: components/theme/options/customizer/options-menus.php:52
+msgid "Menu Font"
+msgstr ""
+
+#: components/theme/options/customizer/options-menus.php:53
+msgid "Choose the typography for the menu"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:7
+msgid "Style settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:10
+msgid "Body background"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:11
+msgid "Site's main background color."
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:16
+msgid "Primary color"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:17
+msgid "Site's main color."
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:29
+msgid "Body Font"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:30
+msgid "Choose the typography for the title"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:61
+msgid "Heading H1 and H2 Fonts"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:80
+msgid "Heading H3 Fonts"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:99
+msgid "Heading H4 Fonts"
+msgstr ""
+
+#: components/theme/options/posts/page.php:8
+msgid "Page settings"
+msgstr ""
+
+#: components/theme/options/posts/page.php:15
+msgid "Add your Page hero title"
+msgstr ""
+
+#: components/theme/options/posts/page.php:18
+msgid " Banner image"
+msgstr ""
+
+#: components/theme/options/posts/page.php:19
+msgid "Upload a page header image"
+msgstr ""
+
+#: components/theme/options/posts/page.php:20
+msgid "This default header image will be used for all your service."
+msgstr ""
+
+#: components/theme/options/posts/post.php:5
+msgid "Featured video"
+msgstr ""
+
+#: components/theme/options/posts/post.php:12
+msgid "Video URL"
+msgstr ""
+
+#: components/theme/options/posts/post.php:13
+msgid ""
+"Paste a video link from Youtube, Vimeo, Dailymotion, Facebook or Twitter it "
+"will be embedded in the post and the thumb used as the featured image of "
+"this post. \n"
+"\t\t\t\tYou need to choose \"Video Format\" as post format to use \"Featured "
+"Video\"."
+msgstr ""
+
+#: components/theme/options/posts/post.php:21
+msgid "Featured audio"
+msgstr ""
+
+#: components/theme/options/posts/post.php:28
+msgid "Audio URL"
+msgstr ""
+
+#: components/theme/options/posts/post.php:29
+msgid "Paste a soundcloud link here."
+msgstr ""
+
+#: components/theme/options/posts/post.php:35
+msgid "Featured gallary"
+msgstr ""
+
+#: components/theme/options/posts/post.php:43
+msgid "Featured gallery"
+msgstr ""
+
+#: components/theme/options/posts/post.php:44
+msgid "Select featured gallery images for this post."
+msgstr ""
+
+#: components/theme/options/posts/ts-chef.php:24
+#: components/theme/options/posts/ts-foodmenu.php:36
+msgid "Add"
+msgstr ""
+
+#: components/theme/options/posts/ts-chef.php:32
+msgid "Link"
+msgstr ""
+
+#: components/theme/options/posts/ts-chef.php:38
+msgid "Social Icon"
+msgstr ""
+
+#: components/theme/options/posts/ts-foodmenu.php:8
+msgid "Menu Icon"
+msgstr ""
+
+#: components/theme/options/posts/ts-foodmenu.php:17
+msgid "Food Category Image"
+msgstr ""
+
+#: components/theme/options/posts/ts-foodmenu.php:30
+msgid "All food"
+msgstr ""
+
+#: components/theme/options/posts/ts-foodmenu.php:31
+msgid "Add your food item"
+msgstr ""
+
+#: components/theme/options/posts/ts-foodmenu.php:51
+msgid "Item Title"
+msgstr ""
+
+#: components/theme/options/posts/ts-foodmenu.php:57
+msgid "Item price"
+msgstr ""
+
+#: components/theme/options/posts/ts-foodmenu.php:63
+msgid "Item ingredient"
+msgstr ""
+
+#: components/theme/options/posts/ts-foodmenu.php:69
+msgid "Order label"
+msgstr ""
+
+#: components/theme/options/posts/ts-foodmenu.php:75
+msgid "Order url"
+msgstr ""
+
+#: components/theme/options/posts/ts-foodmenu.php:81
+msgid "Item Status"
+msgstr ""
+
+#: components/theme/options/taxonomies/category.php:6
+#: components/theme/options/taxonomies/category.php:7
+msgid "Category icon"
+msgstr ""
+
+#: core/helpers/functions/template.php:21
+msgid "Previous post"
+msgstr ""
+
+#: core/helpers/functions/template.php:30
+msgid "Next post"
+msgstr ""
+
+#: core/helpers/functions/template.php:49
+msgid "Home"
+msgstr ""
+
+#: core/helpers/functions/template.php:76
+#: core/helpers/functions/template.php:80
+#: core/helpers/functions/template.php:84
+msgid "Blogs for"
+msgstr ""
+
+#: core/helpers/functions/template.php:88
+msgid "Author Blogs"
+msgstr ""
+
+#: core/helpers/functions/template.php:91
+msgid "Blogs"
+msgstr ""
+
+#: core/helpers/functions/template.php:94
+msgid "Search Result"
+msgstr ""
+
+#: core/helpers/functions/template.php:97
+msgid "404 Not Found"
+msgstr ""
+
+#: core/helpers/functions/template.php:186
+msgid "says:"
+msgstr ""
+
+#: core/helpers/functions/template.php:190
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: core/helpers/functions/template.php:197
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: core/helpers/functions/template.php:200
+msgid "(Edit)"
+msgstr ""
+
+#: core/helpers/functions/template.php:216
+msgid "More pages: "
+msgstr ""
+
+#: core/helpers/functions/template.php:222
+msgid "Next "
+msgstr ""
+
+#: core/helpers/functions/template.php:223
+msgid " Previous"
+msgstr ""
+
+#: core/hooks/blog.php:10
+msgid "read more"
+msgstr ""
+
+#: core/hooks/blog.php:35
+msgid "Search"
+msgstr ""
+
+#: core/hooks/widget-areas.php:11
+msgid "Blog widget area"
+msgstr ""
+
+#: core/hooks/widget-areas.php:13
+msgid "Appears on posts."
+msgstr ""
+
+#: core/hooks/widget-areas.php:29
+msgid "Footer Left"
+msgstr ""
+
+#: core/hooks/widget-areas.php:43
+msgid "Footer Center"
+msgstr ""
+
+#: core/hooks/widget-areas.php:60
+msgid "Woocommerce sidebar Area"
+msgstr ""
+
+#: core/hooks/widget-areas.php:62
+msgid "Appears on posts and pages."
+msgstr ""
+
+#: core/hooks/woocommerce.php:9 template-parts/headers/header-standard.php:54
+#: template-parts/headers/header-transparent.php:72
+#: template-parts/headers/header-transparent2.php:111
+msgid "View your shopping cart"
+msgstr ""
+
+#: core/hooks/woocommerce.php:11 template-parts/headers/header-standard.php:56
+#: template-parts/headers/header-transparent.php:74
+#: template-parts/headers/header-transparent2.php:113
+#, php-format
+msgid "%d item"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/installation-fragments/tgmpa-plugins.php:9
+msgid "Unyson"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:16
+msgid "Elementor"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:21
+msgid "WPCafe"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:26
+msgid "Mailchimp "
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:31
+msgid "Contact Form 7 "
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:36
+msgid "Deliciko Essentials"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:43
+msgid "WP Ultimate Review"
+msgstr ""
+
+#: core/installation-fragments/theme-demos.php:7
+msgid "Demo"
+msgstr ""
+
+#: core/installation-fragments/theme-demos.php:12
+msgid "Demo Red"
+msgstr ""
+
+#: core/installation-fragments/theme-demos.php:17
+msgid "WpCafe Demo"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:386
+#: core/libs/class-tgm-plugin-activation.php:823
+#: core/libs/class-tgm-plugin-activation.php:2529
+#: core/libs/class-tgm-plugin-activation.php:3576
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:387
+#: core/libs/class-tgm-plugin-activation.php:3155
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:388
+#: core/libs/class-tgm-plugin-activation.php:2948
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: core/libs/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:518
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:519
+msgid "Update Required"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:930
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:930
+#: core/libs/class-tgm-plugin-activation.php:933
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:933
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:1117
+#: core/libs/class-tgm-plugin-activation.php:2944
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: core/libs/class-tgm-plugin-activation.php:1978
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2269
+msgid "Required"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2272
+msgid "Recommended"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2288
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2291
+msgid "External Source"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2294
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2311
+msgid "Not Installed"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2315
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2317
+msgid "Active"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2323
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2326
+msgid "Requires Update"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2329
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: core/libs/class-tgm-plugin-activation.php:2338
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2384
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2388
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:2478
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2486
+msgid "Installed version:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2494
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2506
+msgid "Available version:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2529
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2543
+msgid "Plugin"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2544
+msgid "Source"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2545
+msgid "Type"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2549
+msgid "Version"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2550
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/libs/class-tgm-plugin-activation.php:2599
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/libs/class-tgm-plugin-activation.php:2604
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/libs/class-tgm-plugin-activation.php:2610
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2680
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2713
+msgid "Install"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2719
+msgid "Update"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2722
+msgid "Activate"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2753
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2755
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2796
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2798
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2904
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2930
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3154
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/libs/class-tgm-plugin-activation.php:3494
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: core/libs/class-tgm-plugin-activation.php:3497
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:3499
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3503
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:3505
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3505
+#: core/libs/class-tgm-plugin-activation.php:3513
+msgid "Show Details"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3505
+#: core/libs/class-tgm-plugin-activation.php:3513
+msgid "Hide Details"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3506
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/libs/class-tgm-plugin-activation.php:3508
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3511
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:3513
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3514
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/libs/class-tgm-plugin-activation.php:3516
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions.php:82
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:83
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:167
+msgid "Cancel Preloader"
+msgstr ""
+
+#: page.php:34
+msgid "Edit"
+msgstr ""
+
+#: search.php:24
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/banner/content-banner-shop.php:20
+#: template-parts/banner/content-banner-shop.php:29
+msgid "Shop"
+msgstr ""
+
+#: template-parts/banner/content-banner-shop.php:22
+#: template-parts/banner/content-banner-shop.php:30
+msgid "Product Details"
+msgstr ""
+
+#: template-parts/blog/contents/content-none.php:2
+msgid "Nothing found!"
+msgstr ""
+
+#: template-parts/blog/contents/content-none.php:3
+msgid "It looks like nothing was found here. Maybe try a search?"
+msgstr ""
+
+#: template-parts/blog/contents/content-page.php:16
+#: template-parts/blog/contents/content-single.php:26
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: template-parts/blog/contents/format/standard-gallery.php:6
+#: template-parts/blog/contents/format/standard-image.php:8
+#: template-parts/blog/contents/format/standard-image.php:24
+#: template-parts/blog/contents/format/standard-quote.php:12
+#: template-parts/blog/contents/format/standard-video.php:6
+#: template-parts/blog/contents/format/standard.php:8
+#: template-parts/blog/contents/format/standard.php:24
+msgid "Sticky"
+msgstr ""
+
+#: template-parts/blog/contents/format/standard-gallery.php:37
+#: template-parts/blog/contents/format/standard-image.php:37
+#: template-parts/blog/contents/format/standard-video.php:36
+#: template-parts/blog/contents/format/standard.php:38
+msgid "Continue"
+msgstr ""
+
+#: template-parts/blog/post-parts/part-tags.php:8
+msgid "Tags: "
+msgstr ""
+
+#: template-parts/headers/header-transparent.php:24
+msgid " +123-456-789 "
+msgstr ""
+
+#: template-parts/headers/header-transparent.php:25
+msgid "Contact us for reservation "
+msgstr ""
+
+#: template-parts/headers/header-transparent2.php:27
+msgid " +123-456-7899 "
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themeforest.net/user/tripples/portfolio"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Deliciko is a Restaurant WordPress Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Tripples"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themewinter.com"
+msgstr ""
